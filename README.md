@@ -1,0 +1,1 @@
+# aniList-quick-genres-display
