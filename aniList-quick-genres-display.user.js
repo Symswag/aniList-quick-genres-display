@@ -1,11 +1,10 @@
 // ==UserScript==
-// @name         AniList - Quick Genres Display (SPA Fix)
+// @name         AniList - Quick Genres Display
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.0.1
 // @description  Affiche les genres au-dessus du bloc Relations.
 // @author       Symswag
-// @match        https://anilist.co/anime/*
-// @match        https://anilist.co/manga/*
+// @match        https://anilist.co/*
 // @grant        none
 // @run-at       document-end
 // ==/UserScript==
